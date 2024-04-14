@@ -1,0 +1,3 @@
+-Usługodawców 
+-scanf klient 
+-kolejki w serwerze * teoretycznie już jest bo ma działac w trybie ReplyDrive
